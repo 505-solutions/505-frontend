@@ -1,0 +1,23 @@
+{
+  "sidebar": [
+    {
+      "id": "getstarted",
+      "text": "Getting started",
+      "isShow": true,
+      "list": [
+        {
+          "id": "windows-installation",
+          "text": "Windows installation"
+        },
+        {
+          "id": "mac-installation",
+          "text": "Mac installation"
+        },
+        {
+          "id": "ubuntu-installation",
+          "text": "Ubuntu installation"
+        }
+      ]
+    }
+  ]
+}

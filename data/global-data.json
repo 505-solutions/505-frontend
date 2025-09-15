@@ -1,0 +1,1030 @@
+{
+    "homeData": {
+        "pageText": {
+            "heroSection": {
+                "main": [
+                    "Intelligent Automation",
+                    "Exponential Growth",
+                    "Your Future, Now!"
+                ],
+                "subtitle": "We develop custom software solutions that shape the digital landscape through cutting-edge AI, web, and mobile technologies.",
+                "btnText": "Get Started"
+            },
+            "devService": {
+                "aboveTitle": "OUR SERVICES",
+                "title": "Custom Solutions for Every Need",
+                "subtitle": "From AI integration to full-stack development, we deliver tailored solutions"
+            },
+            "provService": {
+                "aboveTitle": "WHY CHOOSE US",
+                "title": "Your Technology Partner",
+                "subtitle": "Expert consulting and development services for startups and enterprises"
+            },
+            "timeline": {
+                "aboveTitle": "OUR PROCESS",
+                "title": "From Concept to Deployment"
+            },
+            "split1": {
+                "title": "Transform Your Business",
+                "desc": "Partner with 505 Labs to leverage cutting-edge technology and innovative solutions. We help businesses of all sizes achieve digital transformation through custom software development, AI integration, and strategic consulting.",
+                "bullets": [
+                    "Custom AI Solutions",
+                    "Full-Stack Development",
+                    "Strategic Consulting"
+                ],
+                "btnText": "Start Your Project"
+            },
+            "split2": {
+                "title": "Accelerate Your Growth",
+                "desc": "Our agile development process ensures rapid delivery of high-quality solutions.",
+                "btnText": "Learn More"
+            },
+            "faq": {
+                "aboveTitle": "FAQ",
+                "title": "Frequently Asked Questions"
+            },
+            "brands": {
+                "aboveTitle": "Partnerships & Integrations"
+            },
+            "features": {
+                "aboveTitle": "Start Your Journey",
+                "title": "Let's Build Something Amazing Together",
+                "subtitle": "First consultation is free - see how we can help you achieve your goals.",
+                "btnText": "Schedule Consultation"
+            }
+        },
+        "developerService": [
+            {
+                "title": "Custom AI Solutions",
+                "desc": "Leverage GPT-4 and cutting-edge AI models to build intelligent applications tailored to your business needs.",
+                "icon": "activity",
+                "delay": 100
+            },
+            {
+                "title": "Web Development",
+                "desc": "Full-stack web applications using modern frameworks like React, Next.js, and Node.js for optimal performance.",
+                "icon": "cast",
+                "delay": 100
+            },
+            {
+                "title": "Mobile Applications",
+                "desc": "Native and cross-platform mobile apps for iOS and Android that deliver exceptional user experiences.",
+                "icon": "map",
+                "delay": 200
+            },
+            {
+                "title": "E-Commerce Solutions",
+                "desc": "Complete e-commerce platforms with payment integration, inventory management, and analytics.",
+                "icon": "loader",
+                "delay": 100
+            },
+            {
+                "title": "Tech Consulting",
+                "desc": "Strategic technology consulting to help you make informed decisions and optimize your digital infrastructure.",
+                "icon": "speaker",
+                "delay": 100
+            },
+            {
+                "title": "Custom Software",
+                "desc": "Bespoke software solutions designed specifically for your unique business requirements and workflows.",
+                "icon": "terminal",
+                "delay": 200
+            }
+        ],
+        "providerService": [
+            {
+                "title": "Agile Development",
+                "desc": "We use agile methodologies to ensure rapid delivery, continuous feedback, and flexibility to adapt to changing requirements.",
+                "icon": "activity",
+                "delay": 100
+            },
+            {
+                "title": "Scalable Architecture",
+                "desc": "Build solutions designed to grow with your business, using cloud-native technologies and microservices architecture.",
+                "icon": "cast",
+                "delay": 100
+            },
+            {
+                "title": "24/7 Support",
+                "desc": "Comprehensive support and maintenance services to ensure your applications run smoothly around the clock.",
+                "icon": "map",
+                "delay": 200
+            },
+            {
+                "title": "Security First",
+                "desc": "Enterprise-grade security measures including encryption, authentication, and regular security audits to protect your data.",
+                "icon": "loader",
+                "delay": 100
+            },
+            {
+                "title": "Transparent Pricing",
+                "desc": "Clear, upfront pricing with flexible engagement models - from fixed-price projects to dedicated team augmentation.",
+                "icon": "speaker",
+                "delay": 100
+            },
+            {
+                "title": "Proven Expertise",
+                "desc": "Our team of experienced developers and consultants has delivered successful projects for startups and Fortune 500 companies.",
+                "icon": "terminal",
+                "delay": 200
+            }
+        ],
+        "timeline": [
+            {
+                "title": "1. Discovery & Planning",
+                "desc": "We analyze your requirements, understand your goals, and create a detailed project roadmap."
+            },
+            {
+                "title": "2. Design & Prototype",
+                "desc": "Our team creates wireframes, mockups, and interactive prototypes to visualize the solution."
+            },
+            {
+                "title": "3. Development & Testing",
+                "desc": "We build your solution using best practices, with continuous testing and quality assurance."
+            },
+            {
+                "title": "4. Deployment & Support",
+                "desc": "Launch your application with confidence, backed by our ongoing support and maintenance."
+            }
+        ],
+        "pricing": [
+            {
+                "title": "Basic",
+                "price": 0,
+                "text": "",
+                "subTitle": "Forever",
+                "isActive": false,
+                "subItem": [
+                    {
+                        "text": "7,700 Words",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "6+ Templates",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "5+ Languages",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "AI Blog generate",
+                        "isMinus": true
+                    },
+                    {
+                        "text": "Advance Editor Tool",
+                        "isMinus": true
+                    },
+                    {
+                        "text": "Consistent support",
+                        "isMinus": true
+                    }
+                ]
+            },
+            {
+                "title": "Business",
+                "price": 50,
+                "text": "",
+                "subTitle": "USD Per Month",
+                "isActive": true,
+                "subItem": [
+                    {
+                        "text": "80,000 Words",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "6+ Templates",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "5+ Languages",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "AI Blog generate",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "Advance Editor Tool",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "Consistent support",
+                        "isMinus": false
+                    }
+                ]
+            },
+            {
+                "title": "Advanced",
+                "price": 100,
+                "text": "",
+                "subTitle": "USD Per Month",
+                "isActive": false,
+                "subItem": [
+                    {
+                        "text": "100,000 Words",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "6+ Templates",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "5+ Languages",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "AI Blog generate",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "Advance Editor Tool",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "Consistent support",
+                        "isMinus": false
+                    }
+                ]
+            },
+            {
+                "title": "Enterprise",
+                "price": 40,
+                "text": "Let's Talk",
+                "subTitle": "Forever",
+                "isActive": false,
+                "subItem": [
+                    {
+                        "text": "3,580,000 Words",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "16+ Templates",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "8+ Languages",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "AI Blog generate",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "Advance Editor Tool",
+                        "isMinus": false
+                    },
+                    {
+                        "text": "Consistent support",
+                        "isMinus": false
+                    }
+                ]
+            }
+        ],
+        "accordion": [
+            {
+                "title": "What services does 505 Labs offer?",
+                "desc": "We offer custom AI solutions, web and mobile app development, e-commerce platforms, tech consulting, and bespoke software development tailored to your business needs.",
+                "isExpand": false
+            },
+            {
+                "title": "How long does a typical project take?",
+                "desc": "Project timelines vary based on complexity. Simple websites can be delivered in 2-4 weeks, while complex enterprise applications may take 3-6 months. We provide detailed timelines during the planning phase.",
+                "isExpand": false
+            },
+            {
+                "title": "What is your development process?",
+                "desc": "We follow an agile methodology with regular sprints, continuous feedback, and iterative development. This ensures transparency, flexibility, and alignment with your goals throughout the project.",
+                "isExpand": false
+            },
+            {
+                "title": "Do you provide ongoing support?",
+                "desc": "Yes, we offer comprehensive maintenance and support packages to ensure your applications run smoothly. This includes bug fixes, updates, performance optimization, and 24/7 monitoring.",
+                "isExpand": false
+            },
+            {
+                "title": "What technologies do you work with?",
+                "desc": "We work with modern tech stacks including React, Next.js, Node.js, Python, AI/ML frameworks, cloud platforms (AWS, Azure, GCP), and mobile technologies (React Native, Flutter, Swift, Kotlin).",
+                "isExpand": false
+            },
+            {
+                "title": "How do I get started with 505 Labs?",
+                "desc": "Simply schedule a free consultation through our website. We'll discuss your project requirements, provide recommendations, and create a custom proposal tailored to your needs and budget.",
+                "isExpand": true
+            }
+        ],
+        "brands": [
+            {
+                "img": "../../public/images/brand/logos/OpenAI.png",
+                "link": ""
+            },
+            {
+                "img": "Google.png",
+                "link": ""
+            },
+            {
+                "img": "HuggingFace.png",
+                "link": ""
+            },
+            {
+                "img": "Linux.png",
+                "link": ""
+            },
+            {
+                "img": "Ubuntu.png",
+                "link": ""
+            },
+            {
+                "img": "Meta.png",
+                "link": ""
+            },
+            {
+                "img": "Microsoft.png",
+                "link": ""
+            },
+            {
+                "img": "Kubernetes.png",
+                "link": ""
+            },
+            {
+                "img": "Docker.png",
+                "link": ""
+            }
+        ],
+        "toolsItem": [
+            {
+                "link": "/contact",
+                "isDisable": false,
+                "title": "AI Integration",
+                "imgDark": "/images/generator-icon/icons/ollama-dark.png",
+                "imgLight": "/images/generator-icon/icons/ollama-light.png",
+                "badge": "Popular",
+                "wdt": 56,
+                "ht": 80
+            },
+            {
+                "link": "/contact",
+                "isDisable": false,
+                "title": "Web Development",
+                "imgDark": "/images/generator-icon/icons/server-dark.png",
+                "imgLight": "/images/generator-icon/icons/server-light.png",
+                "badge": "",
+                "wdt": 64,
+                "ht": 64
+            },
+            {
+                "link": "/contact",
+                "isDisable": false,
+                "title": "Mobile Apps",
+                "imgDark": "/images/generator-icon/icons/autonomous-dark.png",
+                "imgLight": "/images/generator-icon/icons/autonomous-light.png",
+                "badge": "",
+                "wdt": 64,
+                "ht": 64
+            },
+            {
+                "link": "/contact",
+                "isDisable": false,
+                "title": "E-Commerce",
+                "imgDark": "/images/generator-icon/icons/gpu-dark.png",
+                "imgLight": "/images/generator-icon/icons/gpu-light.png",
+                "badge": "",
+                "wdt": 64,
+                "ht": 64
+            },
+            {
+                "link": "/contact",
+                "isDisable": false,
+                "title": "Tech Consulting",
+                "imgDark": "/images/generator-icon/icons/sd3-dark.jpeg",
+                "imgLight": "/images/generator-icon/icons/sd3-light.png",
+                "badge": "Free Consultation",
+                "wdt": 80,
+                "ht": 45
+            }
+        ]
+    },
+    "teamData": {
+        "team": [
+            {
+                "img": "/images/team/team-07.png",
+                "name": "RainbowIT",
+                "profission": "Frontend Developer",
+                "location": "CO Miego, AD,USA"
+            },
+            {
+                "img": "/images/team/team-08.png",
+                "name": "Christopher",
+                "profission": "UI/UX Designer",
+                "location": "CO Miego, AD,USA"
+            },
+            {
+                "img": "/images/team/team-02.png",
+                "name": "MarcoPolo",
+                "profission": "UI/UX Designer",
+                "location": "CO Miego, AD,USA"
+            },
+            {
+                "img": "/images/team/PFPs/AndrewPFP.jpg",
+                "name": "Andrew Klein",
+                "profission": "Founder",
+                "location": "CA, USA",
+                "linkedin": "andrewkleinonline"
+            },
+            {
+                "img": "/images/team/PFPs/CarynPFP.jpg",
+                "name": "Caryn Klein",
+                "profission": "Co-Founder",
+                "location": "CA, USA",
+                "linkedin": "carynkiel"
+            },
+            {
+                "img": "/images/team/team-07.png",
+                "name": "Gary “Thunder” Pratt",
+                "profission": "Technology consultant",
+                "location": "CA, USA",
+                "linkedin": ""
+            },
+            {
+                "img": "/images/team/PFPs/GalPFP.jpg",
+                "name": "Gal Gantar",
+                "profission": "AI Engineer",
+                "location": "Ljubljana, Slovenia",
+                "github": "galgantar"
+            },
+            {
+                "img": "/images/team/PFPs/JurePFP2.jpg",
+                "name": "Jure Snoj",
+                "profission": "Blockchain Engineer",
+                "location": "Ljubljana, Slovenia",
+                "github": "Snojj25"
+            },
+            {
+                "img": "/images/team/PFPs/LukaPFP.jpg",
+                "name": "Luka Skeledzija",
+                "profission": "DevOps Engineer",
+                "location": "Ljubljana, Slovenia",
+                "github": "lukaske"
+            }
+        ]
+    },
+    "headerData": {
+        "navDashboardItem": [
+            {
+                "link": "/profile-details",
+                "text": "Profile"
+            },
+            {
+                "link": "/notification",
+                "text": "Notification"
+            },
+            {
+                "link": "/chat-export",
+                "text": "Chat Export"
+            },
+            {
+                "link": "/appearance",
+                "text": "Appearance"
+            },
+            {
+                "link": "/plans-billing",
+                "text": "Plans and Billing"
+            },
+            {
+                "link": "/sessions",
+                "text": "Sessions"
+            },
+            {
+                "link": "/application",
+                "text": "Application"
+            },
+            {
+                "link": "/release-notes",
+                "text": "Release notes"
+            },
+            {
+                "link": "/help",
+                "text": "Help & FAQs"
+            }
+        ],
+        "navPageItem": [
+            {
+                "link": "/styleguide",
+                "text": "Style Guide",
+                "badge": "Hot",
+                "isComing": false
+            },
+            {
+                "link": "/blog",
+                "text": "Blog",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/blog-detail",
+                "text": "Blog Details",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/pricing",
+                "text": "Pricing",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/contact",
+                "text": "Contact",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/signin",
+                "text": "Sign In",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/signup",
+                "text": "Sign Up",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/team",
+                "text": "Team",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/roadmap",
+                "text": "Roadmap",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/utilize",
+                "text": "How to use",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/terms-policy",
+                "text": "Terms & Policy",
+                "badge": "",
+                "isComing": false
+            },
+            {
+                "link": "/privacy-policy",
+                "text": "Privacy Policy",
+                "badge": "",
+                "isComing": false
+            }
+        ],
+        "smallNavItem": [
+            {
+                "link": "/text-generator",
+                "isDisable": false,
+                "type": "default",
+                "img": "/images/generator-icon/text.png",
+                "text": "Text Generator",
+                "badge": "",
+                "icon": ""
+            },
+            {
+                "link": "/image-generator",
+                "isDisable": false,
+                "type": "default",
+                "img": "/images/generator-icon/photo.png",
+                "text": "Image Generator",
+                "badge": "Hot",
+                "icon": ""
+            },
+            {
+                "link": "/code-generator",
+                "isDisable": false,
+                "type": "default",
+                "img": "/images/generator-icon/code-editor.png",
+                "text": "Code Generator",
+                "badge": "",
+                "icon": ""
+            },
+            {
+                "link": "/image-editor",
+                "isDisable": false,
+                "type": "default",
+                "img": "/images/generator-icon/photo-editor.png",
+                "text": "Image Editor",
+                "badge": "",
+                "icon": ""
+            },
+            {
+                "link": "/vedio-generator",
+                "isDisable": false,
+                "type": "default",
+                "img": "/images/generator-icon/video-camera.png",
+                "text": "Video Generator",
+                "badge": "",
+                "icon": ""
+            },
+            {
+                "link": "/email-generator",
+                "isDisable": false,
+                "type": "default",
+                "img": "/images/generator-icon/email.png",
+                "text": "Email Generator",
+                "badge": "",
+                "icon": ""
+            },
+            {
+                "link": "#",
+                "isDisable": true,
+                "type": "default",
+                "img": "/images/generator-icon/website-design.png",
+                "text": "Website Generator",
+                "badge": "Coming",
+                "icon": ""
+            },
+            {
+                "link": "/profile-details",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Profile Details",
+                "badge": "",
+                "icon": "user"
+            },
+            {
+                "link": "/notification",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Notification",
+                "badge": "",
+                "icon": "shopping-bag"
+            },
+            {
+                "link": "/chat-export",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Chat Export",
+                "badge": "",
+                "icon": "users"
+            },
+            {
+                "link": "/appearance",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Apperance",
+                "badge": "",
+                "icon": "home"
+            },
+            {
+                "link": "/plans-billing",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Plans and Billing",
+                "badge": "",
+                "icon": "briefcase"
+            },
+            {
+                "link": "/sessions",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Sessions",
+                "badge": "",
+                "icon": "users"
+            },
+            {
+                "link": "/application",
+                "isDisable": false,
+                "type": "setting",
+                "text": "Application",
+                "badge": "",
+                "icon": "list"
+            }
+        ],
+        "leftPanel": [
+            {
+                "link": "/text-generator",
+                "isDisable": false,
+                "title": "Text Generator",
+                "img": "/images/generator-icon/text.png",
+                "imgLight": "/images/light/generator-icon/text.png",
+                "badge": ""
+            },
+            {
+                "link": "/image-generator",
+                "isDisable": false,
+                "title": "Image Generator",
+                "img": "/images/generator-icon/photo.png",
+                "imgLight": "/images/light/generator-icon/photo.png",
+                "badge": "NEW"
+            },
+            {
+                "link": "/code-generator",
+                "isDisable": false,
+                "title": "Code Generator",
+                "img": "/images/generator-icon/code-editor.png",
+                "imgLight": "/images/light/generator-icon/code-editor.png",
+                "badge": ""
+            },
+            {
+                "link": "/image-editor",
+                "isDisable": false,
+                "title": "Photo Editor",
+                "img": "/images/generator-icon/photo-editor.png",
+                "imgLight": "/images/light/generator-icon/photo-editor.png",
+                "badge": ""
+            },
+            {
+                "link": "/vedio-generator",
+                "isDisable": false,
+                "title": "Video Generator",
+                "img": "/images/generator-icon/video-camera.png",
+                "imgLight": "/images/light/generator-icon/video-camera.png",
+                "badge": ""
+            },
+            {
+                "link": "/email-generator",
+                "isDisable": false,
+                "title": "Email Writer",
+                "img": "/images/generator-icon/email.png",
+                "imgLight": "/images/light/generator-icon/email.png",
+                "badge": ""
+            },
+            {
+                "link": "#",
+                "isDisable": true,
+                "title": "Website Generator",
+                "img": "/images/generator-icon/website-design.png",
+                "imgLight": "/images/light/generator-icon/website-design.png",
+                "badge": "Coming"
+            },
+            {
+                "link": "/code-generator",
+                "isDisable": false,
+                "title": "HTML Generator",
+                "img": "/images/generator-icon/code-editor.png",
+                "imgLight": "/images/light/generator-icon/code-editor.png",
+                "badge": ""
+            },
+            {
+                "link": "#",
+                "isDisable": true,
+                "title": "Lyrics Generator",
+                "img": "/images/generator-icon/lyrics.png",
+                "imgLight": "/images/light/generator-icon/lyrics.png",
+                "badge": "Coming"
+            },
+            {
+                "link": "#",
+                "isDisable": false,
+                "title": "Speech to text",
+                "img": "/images/generator-icon/voice.png",
+                "imgLight": "/images/light/generator-icon/voice.png",
+                "badge": ""
+            },
+            {
+                "link": "#",
+                "isDisable": false,
+                "title": "Text to speech",
+                "img": "/images/generator-icon/text-voice.png",
+                "imgLight": "/images/light/generator-icon/text-voice.png",
+                "badge": ""
+            },
+            {
+                "link": "#",
+                "isDisable": true,
+                "title": "Chat with Documents",
+                "img": "/images/generator-icon/document.png",
+                "imgLight": "/images/light/generator-icon/document.png",
+                "badge": "Coming"
+            }
+        ]
+    },
+    "footerData": {
+        "footer": [
+            {
+                "desc": "Subscribe and get the latest news, tips and offers.",
+                "title": "Newsletter",
+                "services": [
+                    {
+                        "title": "Services",
+                        "top": true,
+                        "innerItem": [
+                            {
+                                "link": "/",
+                                "text": "Text Generator"
+                            },
+                            {
+                                "link": "/",
+                                "text": "Video Generator"
+                            },
+                            {
+                                "link": "/",
+                                "text": "HTML Generator"
+                            },
+                            {
+                                "link": "/",
+                                "text": "Photo Editor"
+                            }
+                        ]
+                    }
+                ],
+                "products": [
+                    {
+                        "title": "Products",
+                        "top": false,
+                        "innerItem": [
+                            {
+                                "text": "About",
+                                "link": "/team"
+                            },
+                            {
+                                "text": "Roadmap",
+                                "link": "/roadmap"
+                            },
+                            {
+                                "text": "Contact",
+                                "link": "/"
+                            },
+                            {
+                                "text": "Terms Policy",
+                                "link": "/"
+                            }
+                        ]
+                    }
+                ],
+                "company": [
+                    {
+                        "title": "Company",
+                        "top": true,
+                        "innerItem": [
+                            {
+                                "text": "Corporate",
+                                "link": "#"
+                            },
+                            {
+                                "text": "Portfolio",
+                                "link": "#"
+                            },
+                            {
+                                "text": "SEO Agency",
+                                "link": "#"
+                            },
+                            {
+                                "text": "Web Agency",
+                                "link": "#"
+                            }
+                        ]
+                    }
+                ],
+                "solutions": [
+                    {
+                        "title": "Solutions",
+                        "top": false,
+                        "innerItem": [
+                            {
+                                "text": "Gallery",
+                                "link": "#"
+                            },
+                            {
+                                "text": "Testimonial",
+                                "link": "#"
+                            },
+                            {
+                                "text": "Contact",
+                                "link": "#"
+                            },
+                            {
+                                "text": "Service",
+                                "link": "#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "roadmapData": {
+        "roadmap": [
+            {
+                "time": "Q3 2024",
+                "heading": "Ignition",
+                "isCheck": true,
+                "isLoading": true,
+                "isBorader": true,
+                "list": [
+                    {
+                        "title": "Landing Page",
+                        "desc": "Develop an engaging landing page to educate users about the product and strengthen brand identity."
+                    },
+                    {
+                        "title": "Sign Up",
+                        "desc": "Enable users to connect their devices and link them to their wallets seamlessly."
+                    },
+                    {
+                        "title": "Points",
+                        "desc": "Introduce a Points system to incentivize users to engage with the app and reward them for their loyalty."
+                    }
+                ]
+            },
+            {
+                "time": "Q4 2024",
+                "heading": "Research & Development",
+                "isCheck": false,
+                "isLoading": true,
+                "isBorader": true,
+                "list": [
+                    {
+                        "title": "Node Infrastructure",
+                        "desc": "Initiate the development of node execution infrastructure and determine node requirements."
+                    },
+                    {
+                        "title": "Cluster Management",
+                        "desc": "Implement Kubernetes cluster management to connect workers(GPUs) and monitor their activity."
+                    }
+                ]
+            },
+            {
+                "time": "Q1 2025",
+                "heading": "Training Framework",
+                "isCheck": false,
+                "isLoading": false,
+                "isBorader": true,
+                "list": [
+                    {
+                        "title": "Distributed Training",
+                        "desc": "Design a system to distribute training loads across cluster workers."
+                    },
+                    {
+                        "title": "TensorFlow and PyTorch Support",
+                        "desc": "Integrate support for these popular machine learning libraries."
+                    },
+                    {
+                        "title": "Order Handling",
+                        "desc": "Construct a matching engine for order placement, acceptance, and processing by nodes."
+                    },
+                    {
+                        "title": "Payments",
+                        "desc": "Enable payments in USD and native tokens for compute jobs."
+                    }
+                ]
+            },
+            {
+                "time": "Q2 2025",
+                "heading": "Testnet Deployment",
+                "isCheck": false,
+                "isLoading": false,
+                "isBorader": true,
+                "list": [
+                    {
+                        "title": "Testnet Deployment",
+                        "desc": "Launch a testnet to evaluate system performance in a production-like environment."
+                    },
+                    {
+                        "title": "Proof of Training",
+                        "desc": "Implement consise proofs of training to verify the integrity of the training process."
+                    },
+                    {
+                        "title": "Blockchain Explorer",
+                        "desc": "Develop a blockchain explorer to monitor network activity and track transactions."
+                    }
+                ]
+            },
+            {
+                "time": "Q3 2025",
+                "heading": "Mainnet Alpha",
+                "isCheck": false,
+                "isLoading": false,
+                "isBorader": true,
+                "list": [
+                    {
+                        "title": "Mainnet Alpha",
+                        "desc": "Release an Alpha version on the mainnet with real payment capabilities."
+                    },
+                    {
+                        "title": "Slashing and Dispute Resolutions",
+                        "desc": "Implement slashing conditions for misbehaving validators and establish conflict resolution mechanisms."
+                    },
+                    {
+                        "title": "Governance",
+                        "desc": "Develop a governance structure for network updates."
+                    }
+                ]
+            },
+            {
+                "time": "Q4 2025",
+                "heading": "Mainnet Launch",
+                "isCheck": false,
+                "isLoading": false,
+                "isBorader": false,
+                "list": [
+                    {
+                        "title": "Full Mainnet Launch",
+                        "desc": "Complete the transition to a fully operational mainnet."
+                    }
+                ]
+            }
+        ]
+    }
+}

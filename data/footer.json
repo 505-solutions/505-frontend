@@ -1,0 +1,104 @@
+{
+  "footer": [
+    {
+      "desc": "Subscribe and get the latest news, tips and offers.",
+      "title": "Newsletter",
+      "services": [
+        {
+          "title": "Services",
+          "top": true,
+          "innerItem": [
+            {
+              "link": "/",
+              "text": "Text Generator"
+            },
+            {
+              "link": "/",
+              "text": "Video Generator"
+            },
+            {
+              "link": "/",
+              "text": "HTML Generator"
+            },
+            {
+              "link": "/",
+              "text": "Photo Editor"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "title": "Products",
+          "top": false,
+          "innerItem": [
+            {
+              "text": "About",
+              "link": "/"
+            },
+            {
+              "text": "Roadmap",
+              "link": "/roadmap"
+            },
+            {
+              "text": "Contact",
+              "link": "/"
+            },
+            {
+              "text": "Terms Policy",
+              "link": "/"
+            }
+          ]
+        }
+      ],
+      "company": [
+        {
+          "title": "Company",
+          "top": true,
+          "innerItem": [
+            {
+              "text": "Corporate",
+              "link": "#"
+            },
+            {
+              "text": "Portfolio",
+              "link": "#"
+            },
+            {
+              "text": "SEO Agency",
+              "link": "#"
+            },
+            {
+              "text": "Web Agency",
+              "link": "#"
+            }
+          ]
+        }
+      ],
+      "solutions": [
+        {
+          "title": "Solutions",
+          "top": false,
+          "innerItem": [
+            {
+              "text": "Gallery",
+              "link": "#"
+            },
+            {
+              "text": "Testimonial",
+              "link": "#"
+            },
+            {
+              "text": "Contact",
+              "link": "#"
+            },
+            {
+              "text": "Service",
+              "link": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

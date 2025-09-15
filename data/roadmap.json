@@ -1,0 +1,122 @@
+{
+  "roadmap": [
+    {
+      "time": "Q3 2024",
+      "heading": "Ignition",
+      "isCheck": true,
+      "isLoading": true,
+      "isBorader": true,
+      "list": [
+        {
+          "title": "Landing Page",
+          "desc": "Develop an engaging landing page to educate users about the product and strengthen brand identity."
+        },
+        {
+          "title": "Sign Up",
+          "desc": "Enable users to connect their devices and link them to their wallets seamlessly."
+        },
+        {
+          "title": "Points",
+          "desc": "Introduce a Points system to incentivize users to engage with the app and reward them for their loyalty."
+        }
+      ]
+    },
+    {
+      "time": "Q4 2024",
+      "heading": "Research & Development",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "list": [
+        {
+          "title": "Node Infrastructure",
+          "desc": "Initiate the development of node execution infrastructure and determine node requirements."
+        },
+        {
+          "title": "Cluster Management",
+          "desc": "Implement Kubernetes cluster management to connect workers(GPUs) and monitor their activity."
+        }
+      ]
+    },
+    {
+      "time": "Q1 2025",
+      "heading": "Training Framework",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "list": [
+        {
+          "title": "Distributed Training",
+          "desc": "Design a system to distribute training loads across cluster workers."
+        },
+        {
+          "title": "TensorFlow and PyTorch Support",
+          "desc": "Integrate support for these popular machine learning libraries."
+        },
+        {
+          "title": "Order Handling",
+          "desc": "Construct a matching engine for order placement, acceptance, and processing by nodes."
+        },
+        {
+          "title": "Payments",
+          "desc": "Enable payments in USD and native tokens for compute jobs."
+        }
+      ]
+    },
+    {
+      "time": "Q2 2025",
+      "heading": "Testnet Deployment",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "list": [
+        {
+          "title": "Testnet Deployment",
+          "desc": "Launch a testnet to evaluate system performance in a production-like environment."
+        },
+        {
+          "title": "Proof of Training",
+          "desc": "Implement consise proofs of training to verify the integrity of the training process."
+        },
+        {
+          "title": "Blockchain Explorer",
+          "desc": "Develop a blockchain explorer to monitor network activity and track transactions."
+        }
+      ]
+    },
+    {
+      "time": "Q3 2025",
+      "heading": "Mainnet Alpha",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "list": [
+        {
+          "title": "Mainnet Alpha",
+          "desc": "Release an Alpha version on the mainnet with real payment capabilities."
+        },
+        {
+          "title": "Slashing and Dispute Resolutions",
+          "desc": "Implement slashing conditions for misbehaving validators and establish conflict resolution mechanisms."
+        },
+        {
+          "title": "Governance",
+          "desc": "Develop a governance structure for network updates."
+        }
+      ]
+    },
+    {
+      "time": "Q4 2025",
+      "heading": "Mainnet Launch",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": false,
+      "list": [
+        {
+          "title": "Full Mainnet Launch",
+          "desc": "Complete the transition to a fully operational mainnet."
+        }
+      ]
+    }
+  ]
+}

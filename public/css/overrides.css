@@ -1,0 +1,23 @@
+/* Override default color for points Gauge component in profile screen  */
+.gauge-text-inner {
+  fill: white !important;
+  color: white !important;
+}
+
+.root {
+  background-color: orange !important;
+}
+
+.icon-container.svelte-obaru3 {
+  background-color: orange !important;
+}
+.inner-container .icon-container .svelte-obaru3 {
+  background-color: orange !important;
+  height: 350 !important;
+}
+
+.sidebar.svelte-obaru3
+  .inner-container.svelte-obaru3
+  .icon-container.svelte-obaru3 {
+  height: 350 !important;
+}

@@ -1,0 +1,43 @@
+{
+  "team": [
+    {
+      "img": "/images/team/team-07.png",
+      "name": "RainbowIT",
+      "profission": "Frontend Developer",
+      "location": "CO Miego, AD,USA"
+    },
+    {
+      "img": "/images/team/team-08.png",
+      "name": "Christopher",
+      "profission": "UI/UX Designer",
+      "location": "CO Miego, AD,USA"
+    },
+    {
+      "img": "/images/team/team-02.png",
+      "name": "MarcoPolo",
+      "profission": "UI/UX Designer",
+      "location": "CO Miego, AD,USA"
+    },
+    {
+      "img": "/images/team/PFPs/prev/GalPFP.jpg",
+      "name": "Gal Gantar",
+      "profission": "AI Engineer",
+      "location": "Ljubljana, Slovenia",
+      "github": "galgantar"
+    },
+    {
+      "img": "/images/team/PFPs/prev/LukaPFP.jpg",
+      "name": "Luka Skeledzija",
+      "profission": "DevOps Engineer",
+      "location": "Ljubljana, Slovenia",
+      "github": "lukaske"
+    },
+    {
+      "img": "/images/team/PFPs/prev/JurePFP3.jpeg",
+      "name": "Jure Snoj",
+      "profission": "Diversity Specialist",
+      "location": "Ljubljana, Slovenia",
+      "github": "Snojj25"
+    }
+  ]
+}

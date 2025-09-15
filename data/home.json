@@ -1,0 +1,300 @@
+{
+  "developerService": [
+    {
+      "title": "Infinite Scalability",
+      "desc": "Build the cluster with the computational power equivalent to milions of GPUs, supporting the training of super-large parameter models.",
+      "icon": "activity",
+      "delay": 100
+    },
+    {
+      "title": "Privacy & Security",
+      "desc": " Ensuring privacy using a combination of end-to-end encryption, hashing, zero-knowledge proofs, and the use of Trusted Execution Environments (TEEs)",
+      "icon": "cast",
+      "delay": 100
+    },
+    {
+      "title": "High Availability",
+      "desc": "Fault-tolerant recovery mechanism to avoid the impact of single-point failures.\n",
+      "icon": "map",
+      "delay": 200
+    },
+    {
+      "title": "Cost Reduction",
+      "desc": "In a distributed environment for training large models the cost per full-parameter training session can be significantly reduced.",
+      "icon": "loader",
+      "delay": 100
+    },
+    {
+      "title": "Speed Improvement",
+      "desc": "Optimization through Load Balance System(LBS) the processing speed for training tasks increases significantly.",
+      "icon": "speaker",
+      "delay": 100
+    },
+    {
+      "title": "Elastic Supply",
+      "desc": "Distributed architecture, resources dynamically scheduled, pay-as-you-go.",
+      "icon": "terminal",
+      "delay": 200
+    }
+  ],
+  "providerService": [
+    {
+      "title": "Simplified Setup",
+      "desc": "Our network features an intuitive setup process that allows anyone to connect easily, without the need for extensive technical DevOps expertise, making participation more accessible to everyone.",
+      "icon": "activity",
+      "delay": 100
+    },
+    {
+      "title": "Monitoring & Analytics",
+      "desc": "Advanced monitoring and analytics tools that let you track your GPU's performance and rewards, eensuring you have clear visibility into your contributions and earnings.",
+      "icon": "cast",
+      "delay": 100
+    },
+    {
+      "title": "Flexibility",
+      "desc": "Our system uniquely enables you to plug in and out of the network as needed. You can sell your compute power when it's idle and disconnect whenever you require that capacity for your own tasks.",
+      "icon": "map",
+      "delay": 200
+    },
+    {
+      "title": "Earnings & Rewards",
+      "desc": "Join our network to earn substantial rewards for your computing resources, ensuring you are compensated fairly for your contributions.",
+      "icon": "loader",
+      "delay": 100
+    },
+    {
+      "title": "Payments Infrastructure",
+      "desc": "Simply connect your wallet to receive immediate payments for your work. Our payments infrastructure ensures the integrity of the settlement process, providing a seamless experience.",
+      "icon": "speaker",
+      "delay": 100
+    },
+    {
+      "title": "Safe & Responsible AI",
+      "desc": "Contribute to the development of safe and responsible AI technologies. Help to decentralize power and reduce the influence of large centralized monopolies.",
+      "icon": "terminal",
+      "delay": 200
+    }
+  ],
+  "timeline": [
+    {
+      "title": "1.Submit Order",
+      "desc": "Submit an order for a certain amount of computational power on a given problem(Model & Dataset)."
+    },
+    {
+      "title": "2.Order is Matched",
+      "desc": "Nodes Bid for the Order to give you the best exectuion time and price."
+    },
+    {
+      "title": "3.Order is Executed",
+      "desc": "The Nodes handle distributing the training data to the workers, training the model."
+    },
+    {
+      "title": "4.Receive Results",
+      "desc": "When the model is trained, the results are sent back to you along with a proof of training."
+    }
+  ],
+  "pricing": [
+    {
+      "title": "Basic",
+      "price": 0,
+      "text": "",
+      "subTitle": "Forever",
+      "isActive": false,
+      "subItem": [
+        {
+          "text": "7,700 Words",
+          "isMinus": false
+        },
+        {
+          "text": "6+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "5+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": true
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": true
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": true
+        }
+      ]
+    },
+    {
+      "title": "Business",
+      "price": 50,
+      "text": "",
+      "subTitle": "USD Per Month",
+      "isActive": true,
+      "subItem": [
+        {
+          "text": "80,000 Words",
+          "isMinus": false
+        },
+        {
+          "text": "6+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "5+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": false
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": false
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": false
+        }
+      ]
+    },
+    {
+      "title": "Advanced",
+      "price": 100,
+      "text": "",
+      "subTitle": "USD Per Month",
+      "isActive": false,
+      "subItem": [
+        {
+          "text": "100,000 Words",
+          "isMinus": false
+        },
+        {
+          "text": "6+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "5+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": false
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": false
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": false
+        }
+      ]
+    },
+    {
+      "title": "Enterprise",
+      "price": 40,
+      "text": "Let's Talk",
+      "subTitle": "Forever",
+      "isActive": false,
+      "subItem": [
+        {
+          "text": "3,580,000 Words",
+          "isMinus": false
+        },
+        {
+          "text": "16+ Templates",
+          "isMinus": false
+        },
+        {
+          "text": "8+ Languages",
+          "isMinus": false
+        },
+        {
+          "text": "AI Blog generate",
+          "isMinus": false
+        },
+        {
+          "text": "Advance Editor Tool",
+          "isMinus": false
+        },
+        {
+          "text": "Consistent support",
+          "isMinus": false
+        }
+      ]
+    }
+  ],
+  "accordion": [
+    {
+      "title": "How do I connect my GPU and earn rewards?",
+      "desc": "Details Coming Soon...",
+      "isExpand": false
+    },
+    {
+      "title": "How can I delegate my training process to the network?",
+      "desc": "Details Coming Soon...",
+      "isExpand": false
+    },
+    {
+      "title": "How do I know that I'm actually getting the work I paid for?",
+      "desc": "Each worker provides a proof of training, demonstrating the amount of work they have completed.",
+      "isExpand": false
+    },
+    {
+      "title": "Is it hard to join or use the network?",
+      "desc": "No, the process is designed to be as simple as possible, allowing anyone to seamlessly join the network.",
+      "isExpand": false
+    },
+    {
+      "title": "How do we ensure the privacy of models and data?",
+      "desc": "We utilize a combination of end-to-end encryption, hashing, zero-knowledge proofs, and Trusted Execution Environments (TEEs) to ensure privacy.",
+      "isExpand": false
+    },
+    {
+      "title": "Where can I get involved?",
+      "desc": "We are currently launching a points campaign to reward early contributors who join the network. Until then you can join our discord channel and follow us on social media.",
+      "isExpand": true
+    }
+  ],
+  "brands": [
+    {
+      "img": "../../public/images/brand/logos/OpenAI.png",
+      "link": ""
+    },
+    {
+      "img": "Google.png",
+      "link": ""
+    },
+    {
+      "img": "HuggingFace.png",
+      "link": ""
+    },
+    {
+      "img": "Linux.png",
+      "link": ""
+    },
+    {
+      "img": "Ubuntu.png",
+      "link": ""
+    },
+    {
+      "img": "Meta.png",
+      "link": ""
+    },
+    {
+      "img": "Microsoft.png",
+      "link": ""
+    },
+    {
+      "img": "Kubernetes.png",
+      "link": ""
+    },
+    {
+      "img": "Docker.png",
+      "link": ""
+    }
+  ]
+}
